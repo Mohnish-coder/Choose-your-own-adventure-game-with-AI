@@ -37,8 +37,7 @@ cd backend
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
-# Add your API Key to a .env file
-python main.py
+"Add your API Key to a .env file"
 
 Frontend Setup
 
